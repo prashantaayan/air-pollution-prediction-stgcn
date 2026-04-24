@@ -38,5 +38,3 @@ python train_full_model.py
 ## ⚠️ Note
 Dataset is not included due to large size. Please use your own dataset.
 
-👨‍💻 Author
-Saurabh Rai
